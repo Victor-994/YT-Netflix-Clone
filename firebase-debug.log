@@ -1,0 +1,21 @@
+[debug] [2023-01-12T11:23:29.020Z] ----------------------------------------------------------------------
+[debug] [2023-01-12T11:23:29.023Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-01-12T11:23:29.023Z] CLI Version:   11.20.0
+[debug] [2023-01-12T11:23:29.024Z] Platform:      win32
+[debug] [2023-01-12T11:23:29.024Z] Node Version:  v18.12.1
+[debug] [2023-01-12T11:23:29.030Z] Time:          Thu Jan 12 2023 12:23:29 GMT+0100 (West Africa Standard Time)
+[debug] [2023-01-12T11:23:29.031Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-01-12T11:23:29.042Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-01-12T11:23:29.043Z] > authorizing via signed-in user (victoradejumo2@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\HP\OneDrive\Documents\React\Netflix-Clone\netflix-clone
+
